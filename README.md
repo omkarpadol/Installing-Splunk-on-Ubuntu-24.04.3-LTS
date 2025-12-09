@@ -21,7 +21,8 @@ This tutorial is designed to be straightforward and beginner-friendly, making it
 
 The documentation is structured into separate files for easy navigation and professional presentation.
 
-```Installing-Splunk-on-Ubuntu-24.04.3-LTS/
+```
+Installing-Splunk-on-Ubuntu-24.04.3-LTS/
 │
 ├── README.md                     # Main project documentation
 ├── LICENSE                       # CC BY-ND 4.0 License
@@ -40,4 +41,5 @@ The documentation is structured into separate files for easy navigation and prof
 └── images/                       # Screenshots
     ├── ubuntu-install/           # Ubuntu installation screenshots
     ├── splunk-install/           # Splunk installation screenshots
-    └── verification/             # Splunk verification screenshots```
+    └── verification/             # Splunk verification screenshots
+```
