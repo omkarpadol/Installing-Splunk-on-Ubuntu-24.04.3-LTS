@@ -1,7 +1,7 @@
 # Installing-Splunk-on-Ubuntu-24.04.3-LTS
 Comprehensive instructions for installing Splunk Enterprise on Ubuntu 24.04.3 LTS. This guide covers system preparation, package installation, first-time setup, enabling Splunk as a service, and accessing the Splunk Web interface.
 
-##Introduction
+## Introduction
 
 This repository provides a simple and practical guide for installing Ubuntu 24.04.3 LTS and setting up Splunk Enterprise on a newly installed Ubuntu system. The steps are based on a real installation process and include essential commands, screenshots, and explanations to help beginners and students easily follow along.
 
