@@ -33,11 +33,6 @@ Installing-Splunk-on-Ubuntu-24.04.3-LTS/
 │   ├── splunk-installation.md    # Splunk installation steps
 │   └── verification.md           # Verification & testing after install
 │
-├── snapshots/                    # Optional VM snapshots (text/links)
-│   ├── snapshot1/                # Before Ubuntu installation
-│   ├── snapshot2/                # After Ubuntu is installed
-│   └── snapshot3/                # After Splunk is installed
-│
 └── images/                       # Screenshots
     ├── ubuntu-install/           # Ubuntu installation screenshots
     ├── splunk-install/           # Splunk installation screenshots
