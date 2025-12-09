@@ -21,7 +21,7 @@ This tutorial is designed to be straightforward and beginner-friendly, making it
 
 The documentation is structured into separate files for easy navigation and professional presentation.
 
-Installing-Splunk-on-Ubuntu-24.04.3-LTS/
+```Installing-Splunk-on-Ubuntu-24.04.3-LTS/
 │
 ├── README.md                     # Main project documentation
 ├── LICENSE                       # CC BY-ND 4.0 License
@@ -32,7 +32,12 @@ Installing-Splunk-on-Ubuntu-24.04.3-LTS/
 │   ├── splunk-installation.md    # Splunk installation steps
 │   └── verification.md           # Verification & testing after install
 │
+├── snapshots/                    # Optional VM snapshots (text/links)
+│   ├── snapshot1/                # Before Ubuntu installation
+│   ├── snapshot2/                # After Ubuntu is installed
+│   └── snapshot3/                # After Splunk is installed
+│
 └── images/                       # Screenshots
     ├── ubuntu-install/           # Ubuntu installation screenshots
     ├── splunk-install/           # Splunk installation screenshots
-    └── verification/             # Splunk verification screenshots
+    └── verification/             # Splunk verification screenshots```
