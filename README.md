@@ -18,3 +18,21 @@ The guide covers:
 -Logging in to the Splunk Web interface
 
 This tutorial is designed to be straightforward and beginner-friendly, making it useful for learning, labs, and basic Splunk practice environments.
+
+The documentation is structured into separate files for easy navigation and professional presentation.
+
+Installing-Splunk-on-Ubuntu-24.04.3-LTS/
+│
+├── README.md                     # Main project documentation
+├── LICENSE                       # CC BY-ND 4.0 License
+│
+├── docs/                         # Detailed documentation files
+│   ├── prerequisites.md          # System requirements & preparation
+│   ├── ubuntu-installation.md    # Ubuntu installation steps
+│   ├── splunk-installation.md    # Splunk installation steps
+│   └── verification.md           # Verification & testing after install
+│
+└── images/                       # Screenshots
+    ├── ubuntu-install/           # Ubuntu installation screenshots
+    ├── splunk-install/           # Splunk installation screenshots
+    └── verification/             # Splunk verification screenshots
